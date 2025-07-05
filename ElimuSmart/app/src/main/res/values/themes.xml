@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- AppCompat-compatible theme -->
+    <style name="Theme.ElimuSmart" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Rangi za msingi -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+        <!-- Font direction -->
+        <item name="android:textDirection">locale</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+</resources>

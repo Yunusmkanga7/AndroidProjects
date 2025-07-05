@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ElimuSmart</string>
+
+    <string-array name="roles">
+        <item>student</item>
+        <item>teacher</item>
+    </string-array>
+
+
+</resources>
